@@ -51,7 +51,13 @@ public class Main {
 			case 5:
 				makeReport();
 			case 0:
-				System.out.println("Exit option");
+				exit = 0;
+				System.out.println("Get back soon");
+				break;
+			default:
+				System.out.println();
+				System.out.println("Pick a Option");
+				System.out.println();
 				exit = 0;
 				break;
 			}
