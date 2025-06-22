@@ -8,8 +8,7 @@ Se mantienen practicas escenciales en Java basadas en la programación Orientada
 Encapulamiento, Polimorfismo, etc
 
 ## Créditos
-- [David Lares](https://twitter.com/davidlares3)
+[David E Lares S](https://davidlares.com)
 
 ## Licencia
-
 [MIT](https://opensource.org/licenses/MIT)
