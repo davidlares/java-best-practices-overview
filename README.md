@@ -1,14 +1,13 @@
-# DavidJavaCLI
+# Java best practices
 
-Programa (demo) CLI en Java SE 9 para ejemplificar buenas practicas de POO y algunas bondades del lenguaje
+Java SE 9 CLI demo program to demonstrate good OOP practices and some of the language's advantages.
 
-El ejercicio consiste en un directorio estatico de Películas, Series, Capítulos entre otros.
+The exercise consists of a static directory of movies, series, episodes, and other content.
 
-Se mantienen practicas escenciales en Java basadas en la programación Orientada a Objetos, tales como Herencia, Interfaces,
-Encapulamiento, Polimorfismo, etc
+Essential Java practices based on object-oriented programming are maintained, such as inheritance, interfaces, encapsulation, polymorphism, and more.
 
-## Créditos
-[David E Lares S](https://davidlares.com)
+## Credits
+[David Lares S](https://davidlares.com)
 
-## Licencia
+## License
 [MIT](https://opensource.org/licenses/MIT)
